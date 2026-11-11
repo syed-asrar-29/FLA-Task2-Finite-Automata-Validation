@@ -1,0 +1,5 @@
+# Dependencies for Finite Automata Validation System
+# Course: Formal Language and Automata (FLA) Task 2
+
+pytest>=7.0.0
+matplotlib>=3.5.0
